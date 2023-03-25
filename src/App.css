@@ -1,0 +1,10 @@
+.tree {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+.name {
+  text-align: center;
+  font-size: xx-large;
+  color: rgb(93, 138, 104);
+}
