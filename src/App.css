@@ -1,10 +1,14 @@
+.all {
+  width: 400px;
+  margin: auto;
+}
 .tree {
   display: flex;
-  justify-content: center;
+  margin-right: 20%;
   padding: 20px;
 }
 .name {
-  text-align: center;
   font-size: xx-large;
+  padding: 0 20px;
   color: rgb(93, 138, 104);
 }

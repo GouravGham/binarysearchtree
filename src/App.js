@@ -132,7 +132,7 @@ const App = () => {
     }
   }
   return (
-    <div>
+    <div className='all'>
       <h1 className='name'>Binary Search Tree</h1>
       <GetInputs InsertElement={InsertElement} DeleteElement={DeleteElement} SearchElement={SearchElement} />
       <div className='tree'><DisplayBtree node={root} flag={0} /></div>
