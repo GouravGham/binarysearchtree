@@ -1,0 +1,14 @@
+.all {
+  width: 400px;
+  margin: auto;
+}
+.tree {
+  display: flex;
+  margin-right: 20%;
+  padding: 20px;
+}
+.name {
+  font-size: xx-large;
+  padding: 0 20px;
+  color: rgb(93, 138, 104);
+}

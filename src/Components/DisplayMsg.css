@@ -1,0 +1,14 @@
+.gg {
+  padding: 20px;
+  font-size: x-large;
+  background-image: conic-gradient(
+    #05a100 30%,
+    #74ff80 40%,
+    #2bff00 70%,
+    #00740a 80%,
+    #5eff00
+  );
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
